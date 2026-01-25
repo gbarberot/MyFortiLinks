@@ -1,4 +1,4 @@
-# FortiTips - [Back to Root](../readme.md)
+# MyFortiLinks - [Back to Root](../readme.md)
 
 ## FortiSwitch
 

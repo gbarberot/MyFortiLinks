@@ -1,4 +1,4 @@
-# FortiTips
+# MyFortiLinks
 
 ## List of Topics
 

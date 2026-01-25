@@ -1,4 +1,4 @@
-# FortiTips - FortiOS -  [Back to Root](../readme.md)
+# MyFortiLinks - FortiOS -  [Back to Root](../readme.md)
 
 ### FortiGate initial setup
 

@@ -1,4 +1,4 @@
-# FortiTips - [FortiNAC](https://docs.fortinet.com/product/fortinac-f/) -  [Back to Root](../readme.md)
+# MyFortiLinks - [FortiNAC](https://docs.fortinet.com/product/fortinac-f/) -  [Back to Root](../readme.md)
 
 ### FortiNAC initial setup
 - [Technical Tip: Comprehensive guide for a simple FortiNAC deployment](https://community.fortinet.com/t5/FortiNAC-F/Technical-Tip-Comprehensive-guide-for-a-simple-FortiNAC/ta-p/264051)
