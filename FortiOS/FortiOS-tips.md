@@ -1,9 +1,8 @@
 # MyFortiLinks - FortiOS -  [Back to Root](../readme.md)
 
-### FortiGate initial setup
+    Welcome to my personnal repository of some interresting public links for Fortinet Solutions.
 
-- [FortiGate related](./FortiOS/FortiOS-tips.md)
-- [FortiSwitch related](./FortiSwitch/FortiOS-tips.md)
+    All content is public only, some are from [Fortinet Documentation website](https://docs.fortinet.com/), [Fortinet Community](https://community.fortinet.com/) or from some external references (credits mentionned)
 
 ### FortiGate CheatSheets
 
@@ -25,8 +24,8 @@
 
 ### Access internal ressources from Outside
 
-- [VIP](http://)
-- [VIP with SAML Authentication](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-configure-SAML-authentication-for-firewall/ta-p/243639)
+- [Technical Tip: Using Virtual IPs to configure port forwarding](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Using-Virtual-IPs-to-configure-port-forwarding/ta-p/198195)
+- [Technical Tip: How to configure SAML authentication for firewall policy with Virtual IP (VIP)](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-configure-SAML-authentication-for-firewall/ta-p/243639)
 
 ### GenAI & LLM related Features
 
