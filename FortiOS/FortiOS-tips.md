@@ -1,4 +1,4 @@
-# MyFortiLinks - FortiOS -  [Back to Root](../readme.md)
+# MyFortiLinks - [FortiOS](https://docs.fortinet.com/product/fortigate/) -  [Back to Root](../readme.md)
 
 ### FortiGate CheatSheets
 

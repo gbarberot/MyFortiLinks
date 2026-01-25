@@ -1,10 +1,14 @@
-# MyFortiLinks - [Back to Root](../readme.md)
+# MyFortiLinks - [FortiSwitch](https://docs.fortinet.com/product/fortiswitch/) - [Back to Root](../readme.md)
 
 ## FortiSwitch
 
 ## FortiLink
 
 ## Network Design tips
+- [Doc: Determining the network topology](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/617516/determining-the-network-topology)
+- [Doc: HA-mode FortiGate units managing a stack of several FortiSwitch units](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801190/ha-mode-fortigate-units-managing-a-stack-of-several-fortiswitch-units)
+- [Doc: Switch redundancy with MCLAG](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/780635/switch-redundancy-with-mclag)
+- [Doc: Multi-tiered MCLAG with HA-mode FortiGate units](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801194/deploying-mclag-topologies#Three-ti)
 
 ## Transcievers & SFP
 - [Troubleshooting Tip: SFP/SFP+ transceivers port/fiber link is not coming up](https://community.fortinet.com/t5/FortiSwitch/Troubleshooting-Tip-SFP-SFP-transceivers-port-fiber-link-is-not/ta-p/193940)
