@@ -18,3 +18,7 @@
         (FGT)# diagnose debug authd fsso list
   </details>
 
+
+### Special use case
+- [Doc: Docking Station Management](https://docs.fortinet.com/document/fortinac-f/7.6.0/docking-station-management/685335/docking-station-management)
+
