@@ -31,7 +31,8 @@
 ### VPN Ressources
 - [Technical Tip: FortiGate IPsec VPN resource list](https://community.fortinet.com/t5/FortiGate/Technical-Tip-FortiGate-IPsec-VPN-resource-list/ta-p/213560)
 - [Technical Tip: Overview of compatible IKE versions, user authentication methods, and FortiGate/FortiClient firmware versions](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Overview-of-compatible-IKE-versions-user/ta-p/420733)
-
+- [Technical Tip: Increasing email Token expiry time](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Increasing-email-Token-expiry-time/ta-p/190638)
+- [Technical Tip: How to block IPsec fail connection attempts over a blacklist (ESP IKEv1 or IKEv2, Phase 1 mismatch config and authentication failure)](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-block-IPsec-fail-connection-attempts-over-a/ta-p/411328)
 
 ### GenAI & LLM related Features
 
