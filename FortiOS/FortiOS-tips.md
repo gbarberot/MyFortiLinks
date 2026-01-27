@@ -27,6 +27,12 @@
 - [Technical Tip: Using Virtual IPs to configure port forwarding](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Using-Virtual-IPs-to-configure-port-forwarding/ta-p/198195)
 - [Technical Tip: How to configure SAML authentication for firewall policy with Virtual IP (VIP)](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-configure-SAML-authentication-for-firewall/ta-p/243639)
 
+
+### VPN Ressources
+- [Technical Tip: FortiGate IPsec VPN resource list](https://community.fortinet.com/t5/FortiGate/Technical-Tip-FortiGate-IPsec-VPN-resource-list/ta-p/213560)
+- [Technical Tip: Overview of compatible IKE versions, user authentication methods, and FortiGate/FortiClient firmware versions](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Overview-of-compatible-IKE-versions-user/ta-p/420733)
+
+
 ### GenAI & LLM related Features
 
 - [Technical Guide: Selective control & monitoring of GenAI / LLM application traffic with Fortinet Security Fabric](https://community.fortinet.com/t5/FortiGate/Technical-Guide-Selective-control-amp-monitoring-of-GenAI-LLM/ta-p/405240)
