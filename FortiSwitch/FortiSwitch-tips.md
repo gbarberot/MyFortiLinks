@@ -4,7 +4,8 @@
 
 ## FortiLink
 - Initial setup of a FortiSwitch using FortiLink: 
-    - Factory reset your FGT or configure Fortilink interface IP + dhcp server, in advanced settings set ntp server to be the local FGT,
+    - Factory reset your FGT 
+        - Or configure Fortilink interface IP + dhcp server + in advanced settings set ntp server to be the local FGT
     - Check in System > Settings > "Setup device as local NTP server" is enabled and Fortilink interface is selected as listening
     - Connect a FSW on fortilink FGT enabled ports (A/B), FSW should come up as unauthorized using an IP of the FortiLink dhcp Range
     - In Wifi&Switch controller > Managed FortiSwitches > Authorize the switch and wait, it should come back green in a minute
