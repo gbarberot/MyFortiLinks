@@ -26,6 +26,15 @@
   </details>
 
 
+## Fortilink
+
+### Fortilink NAC
+- [Technical Tip: Assigning a VLAN via NAC policies controlled by ZTNA tags from EMS](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Assigning-a-VLAN-via-NAC-policies-controlled-by/ta-p/207698)
+- [Technical Tip: How to configure NAC Policies for WLAN](https://community.fortinet.com/t5/FortiAP/Technical-Tip-How-to-configure-NAC-Policies-for-WLAN/ta-p/267603)
+- [Troubleshooting Tip: Troubleshooting FortiGate with FortiClient EMS](https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-Troubleshooting-FortiGate-with-FortiClient/ta-p/223725)
+- [Technical Tip: How to get all endpoint IP details to FortiGate by ZTNA Tagging](https://community.fortinet.com/t5/FortiClient/Technical-Tip-How-to-get-all-endpoint-IP-details-to-FortiGate-by/ta-p/290871)
+
+
 ## 802.1x
 
 ### Authentication
