@@ -29,6 +29,7 @@
 ## Fortilink
 
 ### Fortilink NAC
+- [Doc: Deployment procedures : Using EMS-tag NAC policies](https://docs.fortinet.com/document/fortiswitch/7.6.0/large-scale-multi-site-fortilink-nac-deployment-guide/674026/deployment-procedures#Example4)
 - [Technical Tip: Assigning a VLAN via NAC policies controlled by ZTNA tags from EMS](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Assigning-a-VLAN-via-NAC-policies-controlled-by/ta-p/207698)
 - [Technical Tip: How to configure NAC Policies for WLAN](https://community.fortinet.com/t5/FortiAP/Technical-Tip-How-to-configure-NAC-Policies-for-WLAN/ta-p/267603)
 - [Troubleshooting Tip: Troubleshooting FortiGate with FortiClient EMS](https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-Troubleshooting-FortiGate-with-FortiClient/ta-p/223725)
@@ -117,5 +118,10 @@
     </details>
 
 
+## Central Management
 
-
+### FortiManager
+- [Doc : Using FortiSwitch Manager to manage FortiSwitches](https://docs.fortinet.com/document/fortimanager/7.4.99/administration-guide/126047/managed-switches)
+- [Doc: Using Zero Touch Provisioning to deploy FortiSwitches](https://docs.fortinet.com/document/fortimanager/7.4.99/administration-guide/691811/using-zero-touch-deployment-for-fortiswitch)
+- [Doc: Using FortiSwitch Templates in Central Management](https://docs.fortinet.com/document/fortimanager/7.4.99/administration-guide/318435/fortiswitch-templates-for-central-management)
+- [Doc: Configuring FortiSwitch Profiles for per-device management](https://docs.fortinet.com/document/fortimanager/7.4.99/administration-guide/123967/fortiswitch-profiles-for-per-device-management)
