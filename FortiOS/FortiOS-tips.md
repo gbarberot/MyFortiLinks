@@ -51,9 +51,15 @@
 
 - [Using 802.1X on FortiGate interface](https://docs.fortinet.com/document/fortigate/7.6.5/administration-guide/100999/hardware-switch#:~:text=Example%20of%20using%20802.1X%20on%20virtual%20switches)
 
+
 ### Fortilink NAC
 
 - [Troubleshooting Tip: FortiSwitch port flap with laptop connected with wifi/wired using FortiClient EMS tags](https://community.fortinet.com/t5/FortiSwitch/Troubleshooting-Tip-FortiSwitch-port-flap-with-laptop-connected/ta-p/360109)
+
+
+### FSSO
+
+- [Technical Tip: A detailed guide to FSSO Mobility Agent](https://community.fortinet.com/t5/FortiAuthenticator/Technical-Tip-A-detailed-guide-to-FSSO-Mobility-Agent/ta-p/428712)
 
 
 ### VDOM
