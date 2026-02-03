@@ -49,7 +49,7 @@
 
 ### 802.1x
 
-- [Using 802.1X on FortiGate interface](https://docs.fortinet.com/document/fortigate/7.6.5/administration-guide/100999/hardware-switch#:~:text=Example%20of%20using%20802.1X%20on%20virtual%20switches)
+- [Using 802.1X on FortiGate interface](https://docs.fortinet.com/document/fortigate/latest/administration-guide/100999/hardware-switch#:~:text=Example%20of%20using%20802.1X%20on%20virtual%20switches)
 
 
 ### Fortilink NAC
@@ -60,11 +60,11 @@
 ### FSSO
 
 - [Technical Tip: A detailed guide to FSSO Mobility Agent](https://community.fortinet.com/t5/FortiAuthenticator/Technical-Tip-A-detailed-guide-to-FSSO-Mobility-Agent/ta-p/428712)
-
+- [Doc: FortiAuthenticator SSOMA for native Microsoft Entra ID joined workstation](https://docs.fortinet.com/document/fortiauthenticator/latest/examples/669124)
 
 ### VDOM
 
-- [Enable Vdom on FortiGate](https://docs.fortinet.com/document/fortigate/7.6.5/administration-guide/32293/general-configurations)
+- [Enable Vdom on FortiGate](https://docs.fortinet.com/document/fortigate/latest/administration-guide/32293/general-configurations)
     <details>
     <summary>Example of VDOM</summary>
     
