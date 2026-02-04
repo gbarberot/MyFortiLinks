@@ -49,7 +49,7 @@
 
 ### 802.1x
 
-- [Using 802.1X on FortiGate interface](https://docs.fortinet.com/document/fortigate/latest/administration-guide/100999/hardware-switch#:~:text=Example%20of%20using%20802.1X%20on%20virtual%20switches)
+- [Doc: Using 802.1X on FortiGate interface](https://docs.fortinet.com/document/fortigate/latest/administration-guide/100999/hardware-switch#:~:text=Example%20of%20using%20802.1X%20on%20virtual%20switches)
 
 
 ### Fortilink NAC
@@ -64,7 +64,7 @@
 
 ### VDOM
 
-- [Enable Vdom on FortiGate](https://docs.fortinet.com/document/fortigate/latest/administration-guide/32293/general-configurations)
+- [Doc: Enable Vdom on FortiGate](https://docs.fortinet.com/document/fortigate/latest/administration-guide/32293/general-configurations)
     <details>
     <summary>Example of VDOM</summary>
     
@@ -75,4 +75,4 @@
         end
     </details>
 
-- [Multitenancy, VDOMS and Fortiswitches](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801172)
+- [Doc: Multitenancy, VDOMS and Fortiswitches](https://docs.fortinet.com/document/fortiswitch/7.6.5/fortilink-guide/801172)
